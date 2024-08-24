@@ -1,0 +1,11 @@
+FROM node:lts-alpine3.18
+
+WORKDIR /app
+
+COPY package*.json /app/
+
+RUN npm i
+
+COPY . .
+
+CMD [ "npm", "start" ]
