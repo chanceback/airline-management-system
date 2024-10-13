@@ -5,7 +5,7 @@ This site is meant to be used by a theoretical airline. The user is able to inse
 
 ## Tech Stack
 
-- **Frontend**: Built with React for a responsive user interface, styled with Tailwind CSS for a modern look.
+- **Frontend**: Built with React for a responsive user interface, styled with CSS for a modern look.
 - **Backend**: Powered by Java and Spring Boot, offering efficient performance.
 - **Containerization**: Utilizes Docker for easy building and deployment, ensuring consistency across environments.
 
